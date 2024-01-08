@@ -1,0 +1,50 @@
+
+body{}
+.payment{
+    margin-top: 2em;
+    padding-inline: 1.25em;
+}
+
+.section-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section-header>h1,.transection>h1{
+    font-weight: 600;
+    font-size: 1.445rem;
+}
+
+.select{
+    display: flex;
+    gap: .5em;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    padding: .7em 1.2em;
+    border-radius: 5px;
+}
+
+.overview{
+    margin-top: 1.5em;
+    display: flex;
+    gap: 1.5em;
+}
+
+.card{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 22px;
+    width: 50%;
+    border-radius: 15px;
+}
+.card-title{
+    font-size: 1.225rem;
+}
+.card-price{
+    font-weight: 600;
+    font-size: 2rem;
+    margin-top: .4em;
+}
+
+.transection{
+    margin: 1.5em 0; 
+}

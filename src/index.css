@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Josefin+Sans:wght@100;200;400;700&display=swap');
+
+*{
+  font-family: 'Inter', sans-serif;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
